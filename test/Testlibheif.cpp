@@ -1,8 +1,7 @@
 #include <gtest/gtest.h>
 
-#include <Core/test.h>
-
+#include <libheif/ReadHeif.h>
 TEST(ExampleTest, SimpleFirstTest)
 {
-	EXPECT_TRUE(test());
+	EXPECT_TRUE(ReadHeif());
 }
