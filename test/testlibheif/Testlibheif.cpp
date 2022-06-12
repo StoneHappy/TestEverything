@@ -1,7 +1,7 @@
 #include <gtest/gtest.h>
 
 #include <libheif/ReadHeif.h>
-TEST(ExampleTest, SimpleFirstTest)
+TEST(libheifTest, ReadHeicTest)
 {
 	EXPECT_TRUE(ReadHeif("./resources/libheif/example.heic"));
 }
