@@ -1,2 +1,3 @@
-# my_cpp_empty_project
-我的cpp空项目
+# test everything
+
+Test 3rdParty lib by googletest.
